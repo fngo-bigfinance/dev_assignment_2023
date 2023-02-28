@@ -1,0 +1,13 @@
+# Maven
+deploy/
+target/
+
+#Intellij
+*.iml
+*.ipr
+*.iws
+/.idea/
+out/
+
+# Mac
+.DS_Store
